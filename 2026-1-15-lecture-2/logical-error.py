@@ -10,9 +10,8 @@ for day in range(7):
 
     if temp >= 0:
         total = total + temp
-
-    count = count + 1
+        count = count + 1
 
 average = total / count
 
-print("Average temperature:", average)
+print(f"Average temperature: {average}")
