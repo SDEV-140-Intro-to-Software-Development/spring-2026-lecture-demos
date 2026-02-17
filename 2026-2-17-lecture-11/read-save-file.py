@@ -1,5 +1,6 @@
+import os
 def load_save_data():
-    saveFile = open("2026-2-17-lecture-11\save-data.txt")
+    saveFile = open(os.path.join("2026-2-17-lecture-11", "save-data.txt"))
     lines = saveFile.readlines()
     saveFile.close()
     saveData = {}

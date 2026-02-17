@@ -1,4 +1,7 @@
-f = open("2026-2-17-lecture-11\\math-data.txt")
+import os
+
+
+f = open(os.path.join("2026-2-17-lecture-11", "math-data.txt"))
 total = 0
 number_of_lines=0
 for line in f:

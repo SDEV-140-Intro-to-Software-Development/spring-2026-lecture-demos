@@ -1,5 +1,7 @@
+import os
+
 def load_save_data():
-    saveFile = open("2026-2-17-lecture-11\\save-data.txt")
+    saveFile = open(os.path.join("2026-2-17-lecture-11", "save-data.txt"))
     lines = saveFile.readlines()
     saveFile.close()
     saveData = {}
@@ -11,7 +13,7 @@ def load_save_data():
     return saveData
 
 def write_save_data(data):
-    saveFile = open("2026-2-17-lecture-11\\save-data.txt", "w")
+    saveFile = open(os.path.join("2026-2-17-lecture-11", "save-data.txt"), "w")
     for key,value in data.items():
         saveFile.write(f"{key}={value}\n")
 
