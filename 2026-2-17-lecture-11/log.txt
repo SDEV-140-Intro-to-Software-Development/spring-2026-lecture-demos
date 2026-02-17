@@ -1,0 +1,27 @@
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+Invalid Number Entered
+asdfasdf is not a valid number!
+okamsdfmnasdf is not a valid number!
+hello world is not a valid number!
+2026-02-17 12:50:31.994770: asdfasmdfkasdf is not a valid number!
+2026-02-17 13:10:47.288901: asdfmn is not a valid number!
+2026-02-17 13:10:48.161010: asdkfm is not a valid number!
